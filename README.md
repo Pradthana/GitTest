@@ -1,5 +1,5 @@
 # Hello 
-![MyPic](images/pic1.jpg)
+![MyPic](pic2.jpg)
 ---
 ### Name : Pradthana 
 ### Lastname : Intarakeeree
